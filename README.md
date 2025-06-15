@@ -3,6 +3,10 @@
 - Making dog code for learning
 - Studing ComputersNstuff
 
+> [!TIP]
+> The code is dog and may not works as intended.
+
+
 ## FavoriteCodigLauguages
 ![Static Badge](https://img.shields.io/badge/Lua-2C2D72%20?style=for-the-badge&logo=Lua&logoColor=%232C2D72&labelColor=black&color=%232C2D72)
 
