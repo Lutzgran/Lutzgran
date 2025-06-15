@@ -7,7 +7,7 @@
 > The code is dog and may not works as intended.
 
 
-## FavoriteCodigLauguages
+## FavoriteCodigLauguage/stats
 ![Static Badge](https://img.shields.io/badge/Lua-2C2D72%20?style=for-the-badge&logo=Lua&logoColor=%232C2D72&labelColor=black&color=%232C2D72)
 
 ![Lutzgran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lutzgran&show_icons=true&theme=tokyonight) 
